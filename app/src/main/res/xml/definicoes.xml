@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <EditTextPreference
+        android:key="jogador1"
+        android:title="Jogador 1"
+        android:summary="Insira o nome do 1º Jogador"
+        android:defaultValue="José"
+        />
+
+
+    <EditTextPreference
+        android:key="jogador2"
+        android:title="Jogador 2"
+        android:summary="Insira o nome do 2º Jogador"
+        android:defaultValue="Carolina"
+        />
+
+
+
+
+
+    <ListPreference
+        android:key="opcao_lista"
+        android:title="Simbolo de Início"
+        android:entries="@array/array_lista_entradas"
+        android:entryValues="@array/array_lista_entradas"
+        />
+
+
+
+
+</PreferenceScreen>

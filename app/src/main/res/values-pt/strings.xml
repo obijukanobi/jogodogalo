@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jogo do Galo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="empate">Empate!</string>
+    <string name="vitoria">Ganha!</string>
+    <string name="menu_regras">Regras</string>
+    <string name="txtregras">Cada Jogador tem um simbolo associado O ou X. Jogam alternadamente e ganha o jogador que fizer três simbolos seguidos quer na diagonal, vertical ou horizontal.</string>
+    <string name="settings">Definições</string>
+    <string name="menu_ultimos_jogos">Ultimos Jogos</string>
+    <string name="last_games_details">Detalhes dos Ultimos Jogos</string>
+</resources>

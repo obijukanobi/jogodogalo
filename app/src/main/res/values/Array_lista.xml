@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="array_lista_entradas">
+        <item>X</item>
+        <item>O</item>
+
+    </array>
+    <array name="array_lista_valores">
+        <item>X</item>
+        <item>O</item>
+
+    </array>
+
+
+
+
+
+
+
+
+</resources>

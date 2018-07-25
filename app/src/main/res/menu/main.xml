@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_regras"
+        android:orderInCategory="110"
+        android:showAsAction="always"
+        android:icon="@drawable/cruz"
+        android:title="@string/menu_regras"
+        />
+
+
+    <item
+        android:id="@+id/definicoes"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_view_as_list"
+        android:title="Definições"
+        />
+
+    <item
+        android:id="@+id/menu_ultimos_jogos"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_ultimos_jogos"
+        />
+</menu>

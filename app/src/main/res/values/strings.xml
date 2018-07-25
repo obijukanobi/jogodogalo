@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="vitoria">Wins!</string>
+    <string name="empate">Tie!</string>
+    <string name="menu_regras">Rules</string>
+    <string name="txtregras">Each player has a symbol, O ou X. ...Jogam alternadamente e ganha o jogador que fizer três simbolos seguidos quer na diagonal, vertical ou horizontal.</string>
+    <string name="settings">Settings</string>
+    <string name="menu_ultimos_jogos">Last Games</string>
+    <string name="last_games_details">last_games_details</string>
+</resources>
